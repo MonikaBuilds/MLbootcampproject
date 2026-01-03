@@ -1,0 +1,24 @@
+[2026-01-03 20:36:34,119] 22 root -INFO starting data ingestion
+[2026-01-03 20:36:34,201] 27 root -INFO raw data reading is complete
+[2026-01-03 20:36:34,448] 34 root -INFO train and test split is done
+[2026-01-03 20:36:34,651] 39 root -INFO data ingestion is complete
+[2026-01-03 20:36:34,761] 73 root -INFO Read train and test data completed
+[2026-01-03 20:36:34,768] 74 root -INFO Train DataFrame Head : 
+   carat cut color clarity  depth  table  price     x     y     z
+0   1.02   5     4       4   62.4   57.0   5346  6.47  6.36  4.00
+1   1.05   2     3       6   61.3   59.0   8537  6.48  6.56  4.00
+2   0.91   4     4       3   62.6   58.0   3975  6.17  6.14  3.85
+3   0.32   5     1       6   60.9   57.0   1008  4.39  4.45  2.70
+4   1.52   4     4       4   61.9   56.0  13282  7.39  7.28  4.54
+[2026-01-03 20:36:34,771] 75 root -INFO Test DataFrame Head : 
+   carat cut color clarity  depth  table  price     x     y     z
+0   0.71   1     7       4   64.9   54.0   1435  5.63  5.53  3.62
+1   0.90   2     2       2   61.0   59.0   3584  6.14  6.18  3.76
+2   0.57   5     4       5   62.1   56.0   1851  5.30  5.33  3.30
+3   0.51   4     2       4   62.5   60.0   1590  5.08  5.10  3.18
+4   1.19   5     6       3   62.3   55.0   5690  6.80  6.82  4.24
+[2026-01-03 20:36:34,771] 77 root -INFO Obtaining preprocessing object
+[2026-01-03 20:36:34,771] 26 root -INFO Data Transformation initiated
+[2026-01-03 20:36:34,771] 37 root -INFO Pipeline initiated
+[2026-01-03 20:36:34,771] 58 root -INFO Pipeline completed
+[2026-01-03 20:36:34,832] 116 root -INFO Exception occurred in the initiate_data_transformation

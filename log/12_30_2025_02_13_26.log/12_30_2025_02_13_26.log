@@ -1,0 +1,6 @@
+[2025-12-30 02:13:27,629] 97 werkzeug -WARNING  * Debugger is active!
+[2025-12-30 02:13:27,633] 97 werkzeug -INFO  * Debugger PIN: 191-688-150
+[2025-12-30 02:13:27,635] 97 werkzeug -WARNING  * Debugger is active!
+[2025-12-30 02:13:27,638] 97 werkzeug -INFO  * Debugger PIN: 191-688-150
+[2025-12-30 02:14:10,574] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\src\\pipeline\\training_pipeline.py', reloading
+[2025-12-30 02:14:10,616] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\src\\pipeline\\training_pipeline.py', reloading

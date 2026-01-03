@@ -1,0 +1,4 @@
+[2026-01-03 20:53:48,489] 22 root -INFO starting data ingestion
+[2026-01-03 20:53:48,539] 27 root -INFO raw data reading is complete
+[2026-01-03 20:53:48,977] 34 root -INFO train and test split is done
+[2026-01-03 20:53:49,231] 39 root -INFO data ingestion is complete

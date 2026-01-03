@@ -1,0 +1,34 @@
+[2026-01-03 20:29:10,810] 161 numexpr.utils -INFO NumExpr defaulting to 16 threads.
+[2026-01-03 20:29:12,520] 97 werkzeug -WARNING  * Debugger is active!
+[2026-01-03 20:29:12,524] 97 werkzeug -INFO  * Debugger PIN: 935-294-776
+[2026-01-03 20:29:12,568] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\.venv\\Lib\\site-packages\\pip\\_vendor\\idna\\codec.py', reloading
+[2026-01-03 20:29:12,598] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\venv\\Lib\\site-packages\\pandas\\tests\\util\\test_rewrite_warning.py', reloading
+[2026-01-03 20:29:12,632] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\env\\Lib\\site-packages\\pandas\\tests\\arrays\\string_\\test_concat.py', reloading
+[2026-01-03 20:29:12,667] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\venv\\Lib\\site-packages\\pandas\\tests\\extension\\array_with_attr\\array.py', reloading
+[2026-01-03 20:29:12,671] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\env\\Lib\\site-packages\\numpy\\_core\\tests\\test_indexerrors.py', reloading
+[2026-01-03 20:29:12,674] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\env\\Lib\\site-packages\\sklearn\\externals\\array_api_compat\\torch\\fft.py', reloading
+[2026-01-03 20:29:12,714] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\env\\Lib\\site-packages\\numpy\\typing\\tests\\data\\pass\\random.py', reloading
+[2026-01-03 20:29:12,756] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\venv\\Lib\\site-packages\\debugpy\\_vendored\\pydevd\\_pydevd_frame_eval\\vendored\\bytecode\\tests\\test_instr.py', reloading
+[2026-01-03 20:29:12,807] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\venv\\Lib\\site-packages\\pandas\\io\\formats\\format.py', reloading
+[2026-01-03 20:29:12,843] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\venv\\Lib\\site-packages\\win32comext\\axdebug\\codecontainer.py', reloading
+[2026-01-03 20:29:12,884] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\venv\\Lib\\site-packages\\pip\\_vendor\\requests\\sessions.py', reloading
+[2026-01-03 20:29:12,926] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\venv\\Lib\\site-packages\\pandas\\tests\\reductions\\test_reductions.py', reloading
+[2026-01-03 20:29:12,963] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\venv\\Lib\\site-packages\\pandas\\plotting\\_matplotlib\\tools.py', reloading
+[2026-01-03 20:29:12,999] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\env\\Lib\\site-packages\\numpy\\matrixlib\\tests\\test_interaction.py', reloading
+[2026-01-03 20:29:13,036] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\venv\\Lib\\site-packages\\flask\\wrappers.py', reloading
+[2026-01-03 20:29:13,088] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\venv\\Lib\\site-packages\\sklearn\\pipeline.py', reloading
+[2026-01-03 20:29:13,126] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\env\\Lib\\site-packages\\numpy\\_core\\tests\\test_errstate.py', reloading
+[2026-01-03 20:29:13,129] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\env\\Lib\\site-packages\\pygments\\lexers\\mips.py', reloading
+[2026-01-03 20:29:13,133] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\env\\Lib\\site-packages\\numpy\\f2py\\_backends\\_distutils.py', reloading
+[2026-01-03 20:29:13,137] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\venv\\Lib\\site-packages\\sklearn\\utils\\_user_interface.py', reloading
+[2026-01-03 20:29:13,193] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\env\\Lib\\site-packages\\scipy\\optimize\\tests\\test__differential_evolution.py', reloading
+[2026-01-03 20:29:13,238] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\env\\Lib\\site-packages\\scipy\\optimize\\tests\\test_chandrupatla.py', reloading
+[2026-01-03 20:29:13,289] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\venv\\Lib\\site-packages\\scipy\\stats\\_levy_stable\\__init__.py', reloading
+[2026-01-03 20:29:13,318] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\venv\\Lib\\site-packages\\scipy\\sparse\\coo.py', reloading
+[2026-01-03 20:29:13,357] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\venv\\Lib\\site-packages\\pandas\\tests\\io\\parser\\dtypes\\test_empty.py', reloading
+[2026-01-03 20:29:13,408] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\venv\\Lib\\site-packages\\scipy\\optimize\\tests\\test_cobyla.py', reloading
+[2026-01-03 20:29:13,436] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\venv\\Lib\\site-packages\\sklearn\\inspection\\__init__.py', reloading
+[2026-01-03 20:29:13,482] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\env\\Lib\\site-packages\\scipy\\io\\matlab\\tests\\test_mio.py', reloading
+[2026-01-03 20:29:13,520] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\venv\\Lib\\site-packages\\click\\_winconsole.py', reloading
+[2026-01-03 20:29:13,524] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\env\\Lib\\site-packages\\scipy\\sparse\\tests\\test_spfuncs.py', reloading
+[2026-01-03 20:29:13,527] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\venv\\Lib\\site-packages\\numpy\\_typing\\_add_docstring.py', reloading

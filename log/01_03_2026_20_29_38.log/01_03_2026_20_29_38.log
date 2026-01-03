@@ -1,0 +1,36 @@
+[2026-01-03 20:29:39,486] 161 numexpr.utils -INFO NumExpr defaulting to 16 threads.
+[2026-01-03 20:29:41,363] 97 werkzeug -WARNING  * Debugger is active!
+[2026-01-03 20:29:41,367] 97 werkzeug -INFO  * Debugger PIN: 935-294-776
+[2026-01-03 20:29:41,455] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\venv\\Lib\\site-packages\\pandas\\tests\\series\\test_formats.py', reloading
+[2026-01-03 20:29:41,489] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\env\\Lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\lgmres.py', reloading
+[2026-01-03 20:29:41,527] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\venv\\Lib\\site-packages\\pygments\\lexers\\make.py', reloading
+[2026-01-03 20:29:41,571] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\venv\\Lib\\site-packages\\scipy\\interpolate\\_ndgriddata.py', reloading
+[2026-01-03 20:29:41,615] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\env\\Lib\\site-packages\\prompt_toolkit\\layout\\margins.py', reloading
+[2026-01-03 20:29:41,658] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\venv\\Lib\\site-packages\\numpy\\lib\\tests\\test_function_base.py', reloading
+[2026-01-03 20:29:41,662] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\venv\\Lib\\site-packages\\scipy\\linalg\\decomp_qr.py', reloading
+[2026-01-03 20:29:41,707] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\env\\Lib\\site-packages\\pandas\\tests\\tseries\\offsets\\test_month.py', reloading
+[2026-01-03 20:29:41,743] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\env\\Lib\\site-packages\\scipy\\version.py', reloading
+[2026-01-03 20:29:41,792] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\env\\Lib\\site-packages\\pygments\\lexers\\testing.py', reloading
+[2026-01-03 20:29:41,826] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\venv\\Lib\\site-packages\\zmq\\backend\\cffi\\message.py', reloading
+[2026-01-03 20:29:41,871] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\env\\Lib\\site-packages\\numpy\\lib\\_format_impl.py', reloading
+[2026-01-03 20:29:41,902] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\venv\\Lib\\site-packages\\pandas\\tests\\frame\\methods\\test_at_time.py', reloading
+[2026-01-03 20:29:41,949] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\venv\\Lib\\site-packages\\win32comext\\axscript\\client\\framework.py', reloading
+[2026-01-03 20:29:41,953] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\venv\\Lib\\site-packages\\pandas\\tests\\util\\test_show_versions.py', reloading
+[2026-01-03 20:29:41,972] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\env\\Lib\\site-packages\\pandas\\tests\\series\\methods\\test_get_numeric_data.py', reloading
+[2026-01-03 20:29:41,974] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\venv\\Lib\\site-packages\\jedi\\inference\\signature.py', reloading
+[2026-01-03 20:29:41,977] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\env\\Lib\\site-packages\\numpy\\_core\\tests\\test_abc.py', reloading
+[2026-01-03 20:29:41,995] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\venv\\Lib\\site-packages\\jedi\\inference\\compiled\\subprocess\\__main__.py', reloading
+[2026-01-03 20:29:41,999] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\env\\Lib\\site-packages\\joblib\\logger.py', reloading
+[2026-01-03 20:29:42,003] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\env\\Lib\\site-packages\\scipy\\stats\\tests\\data\\_mvt.py', reloading
+[2026-01-03 20:29:42,027] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\env\\Lib\\site-packages\\sklearn\\covariance\\tests\\test_robust_covariance.py', reloading
+[2026-01-03 20:29:42,028] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\venv\\Lib\\site-packages\\numpy\\lib\\npyio.py', reloading
+[2026-01-03 20:29:42,075] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\env\\Lib\\site-packages\\pandas\\tests\\io\\test_stata.py', reloading
+[2026-01-03 20:29:42,109] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\env\\Lib\\site-packages\\pandas\\tests\\io\\excel\\test_openpyxl.py', reloading
+[2026-01-03 20:29:42,140] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\env\\Lib\\site-packages\\pygments\\lexers\\bdd.py', reloading
+[2026-01-03 20:29:42,181] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\venv\\Lib\\site-packages\\win32com\\client\\combrowse.py', reloading
+[2026-01-03 20:29:42,212] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\env\\Lib\\site-packages\\jedi\\api\\errors.py', reloading
+[2026-01-03 20:29:42,255] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\venv\\Lib\\site-packages\\win32comext\\axscript\\client\\pyscript.py', reloading
+[2026-01-03 20:29:42,297] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\venv\\Lib\\site-packages\\pandas\\core\\internals\\concat.py', reloading
+[2026-01-03 20:29:42,334] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\env\\Lib\\site-packages\\scipy\\linalg\\tests\\test_batch.py', reloading
+[2026-01-03 20:29:42,372] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\env\\Lib\\site-packages\\numpy\\_array_api_info.py', reloading
+[2026-01-03 20:29:42,406] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\env\\Lib\\site-packages\\sklearn\\tree\\tests\\test_monotonic_tree.py', reloading

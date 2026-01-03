@@ -1,0 +1,10 @@
+[2026-01-03 20:27:45,572] 161 numexpr.utils -INFO NumExpr defaulting to 16 threads.
+[2026-01-03 20:27:47,619] 97 werkzeug -WARNING  * Debugger is active!
+[2026-01-03 20:27:47,624] 97 werkzeug -INFO  * Debugger PIN: 935-294-776
+[2026-01-03 20:27:47,675] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\env\\Lib\\site-packages\\werkzeug\\testapp.py', reloading
+[2026-01-03 20:27:47,689] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\venv\\Lib\\site-packages\\scipy\\__init__.py', reloading
+[2026-01-03 20:27:47,704] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\env\\Lib\\site-packages\\scipy\\stats\\_kde.py', reloading
+[2026-01-03 20:27:47,718] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\env\\Lib\\site-packages\\pandas\\tests\\arrays\\floating\\test_arithmetic.py', reloading
+[2026-01-03 20:27:47,733] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\env\\Lib\\site-packages\\IPython\\lib\\demo.py', reloading
+[2026-01-03 20:27:47,749] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\venv\\Lib\\site-packages\\prompt_toolkit\\document.py', reloading
+[2026-01-03 20:27:47,751] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\venv\\Lib\\site-packages\\sklearn\\linear_model\\_glm\\__init__.py', reloading

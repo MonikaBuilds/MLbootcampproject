@@ -1,0 +1,5 @@
+[2026-01-03 20:49:24,806] 161 numexpr.utils -INFO NumExpr defaulting to 16 threads.
+[2026-01-03 20:49:26,097] 97 werkzeug -WARNING  * Debugger is active!
+[2026-01-03 20:49:26,101] 97 werkzeug -INFO  * Debugger PIN: 935-294-776
+[2026-01-03 20:49:26,208] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\src\\components\\data_ingestion.py', reloading
+[2026-01-03 20:49:26,209] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\src\\components\\data_ingestion.py', reloading

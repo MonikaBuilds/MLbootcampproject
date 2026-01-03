@@ -1,0 +1,20 @@
+[2026-01-03 21:08:55,938] 97 werkzeug -WARNING  * Debugger is active!
+[2026-01-03 21:08:55,942] 97 werkzeug -INFO  * Debugger PIN: 191-688-150
+[2026-01-03 21:09:01,093] 75 root -INFO DataFrame gathered
+[2026-01-03 21:09:01,124] 34 root -INFO Model loaded successfully from artifacts\preprocessing.pkl
+[2026-01-03 21:09:01,349] 34 root -INFO Model loaded successfully from artifacts\model.pkl
+[2026-01-03 21:09:01,363] 36 root -INFO exception occured in prediction
+[2026-01-03 21:09:01,399] 97 werkzeug -INFO 127.0.0.1 - - [03/Jan/2026 21:09:01] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2026-01-03 21:09:01,500] 97 werkzeug -INFO 127.0.0.1 - - [03/Jan/2026 21:09:01] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2026-01-03 21:09:01,501] 97 werkzeug -INFO 127.0.0.1 - - [03/Jan/2026 21:09:01] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2026-01-03 21:09:01,516] 97 werkzeug -INFO 127.0.0.1 - - [03/Jan/2026 21:09:01] "GET /predict?__debugger__=yes&cmd=resource&f=console.png&s=zxd7OBhIDnr3ddhNgdxb HTTP/1.1" 200 -
+[2026-01-03 21:09:01,526] 97 werkzeug -INFO 127.0.0.1 - - [03/Jan/2026 21:09:01] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2026-01-03 21:09:10,160] 75 root -INFO DataFrame gathered
+[2026-01-03 21:09:10,160] 34 root -INFO Model loaded successfully from artifacts\preprocessing.pkl
+[2026-01-03 21:09:10,162] 34 root -INFO Model loaded successfully from artifacts\model.pkl
+[2026-01-03 21:09:10,177] 36 root -INFO exception occured in prediction
+[2026-01-03 21:09:10,207] 97 werkzeug -INFO 127.0.0.1 - - [03/Jan/2026 21:09:10] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2026-01-03 21:09:10,221] 97 werkzeug -INFO 127.0.0.1 - - [03/Jan/2026 21:09:10] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2026-01-03 21:09:10,223] 97 werkzeug -INFO 127.0.0.1 - - [03/Jan/2026 21:09:10] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2026-01-03 21:09:10,246] 97 werkzeug -INFO 127.0.0.1 - - [03/Jan/2026 21:09:10] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png&s=zxd7OBhIDnr3ddhNgdxb HTTP/1.1[0m" 304 -
+[2026-01-03 21:09:10,265] 97 werkzeug -INFO 127.0.0.1 - - [03/Jan/2026 21:09:10] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -

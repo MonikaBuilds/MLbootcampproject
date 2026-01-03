@@ -1,0 +1,11 @@
+[2026-01-03 20:54:00,115] 97 werkzeug -WARNING  * Debugger is active!
+[2026-01-03 20:54:00,138] 97 werkzeug -INFO  * Debugger PIN: 191-688-150
+[2026-01-03 20:54:32,992] 75 root -INFO DataFrame gathered
+[2026-01-03 20:54:32,992] 34 root -INFO Model loaded successfully from artifacts\preprocessing.pkl
+[2026-01-03 20:54:33,185] 38 root -INFO Exception occurred in load_model function utils
+[2026-01-03 20:54:33,185] 36 root -INFO exception occured in prediction
+[2026-01-03 20:54:33,289] 97 werkzeug -INFO 127.0.0.1 - - [03/Jan/2026 20:54:33] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2026-01-03 20:54:33,427] 97 werkzeug -INFO 127.0.0.1 - - [03/Jan/2026 20:54:33] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2026-01-03 20:54:33,433] 97 werkzeug -INFO 127.0.0.1 - - [03/Jan/2026 20:54:33] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2026-01-03 20:54:33,760] 97 werkzeug -INFO 127.0.0.1 - - [03/Jan/2026 20:54:33] "GET /predict?__debugger__=yes&cmd=resource&f=console.png&s=PbcLmx0PyHnyBH7Sju9o HTTP/1.1" 200 -
+[2026-01-03 20:54:34,023] 97 werkzeug -INFO 127.0.0.1 - - [03/Jan/2026 20:54:34] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -

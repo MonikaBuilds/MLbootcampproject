@@ -1,0 +1,15 @@
+[2026-01-03 20:43:42,275] 161 numexpr.utils -INFO NumExpr defaulting to 16 threads.
+[2026-01-03 20:43:43,484] 97 werkzeug -WARNING  * Debugger is active!
+[2026-01-03 20:43:43,488] 97 werkzeug -INFO  * Debugger PIN: 935-294-776
+[2026-01-03 20:46:34,426] 75 root -INFO DataFrame gathered
+[2026-01-03 20:46:34,443] 34 root -INFO Model loaded successfully from artifact\preprocessing.pkl
+[2026-01-03 20:46:34,567] 38 root -INFO Exception occurred in load_model function utils
+[2026-01-03 20:46:34,567] 36 root -INFO exception occured in prediction
+[2026-01-03 20:46:34,619] 97 werkzeug -INFO 127.0.0.1 - - [03/Jan/2026 20:46:34] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2026-01-03 20:46:34,678] 97 werkzeug -INFO 127.0.0.1 - - [03/Jan/2026 20:46:34] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2026-01-03 20:46:34,681] 97 werkzeug -INFO 127.0.0.1 - - [03/Jan/2026 20:46:34] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2026-01-03 20:46:35,006] 97 werkzeug -INFO 127.0.0.1 - - [03/Jan/2026 20:46:35] "GET /predict?__debugger__=yes&cmd=resource&f=console.png&s=IFhPFhuseVMpIoDUJJvQ HTTP/1.1" 200 -
+[2026-01-03 20:46:35,274] 97 werkzeug -INFO 127.0.0.1 - - [03/Jan/2026 20:46:35] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2026-01-03 20:49:23,335] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\src\\components\\data_ingestion.py', reloading
+[2026-01-03 20:49:23,336] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\src\\components\\data_ingestion.py', reloading
+[2026-01-03 20:49:23,351] 97 werkzeug -INFO  * Detected change in 'C:\\All Projects\\MLBOOTCAMP_Project\\src\\components\\data_ingestion.py', reloading
